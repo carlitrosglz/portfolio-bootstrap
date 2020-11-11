@@ -1,0 +1,11 @@
+/* Para hacer target a las IDs --> # */
+
+html {
+    scroll-behavior: smooth;
+}
+
+#about,
+#contact {
+    background-color: #343a49;
+    color: white;
+}
